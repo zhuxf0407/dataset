@@ -2,3 +2,5 @@ We constructed a sentiment dataset associated with user information.  To this en
 
 We manually label all  blogs and obtain nearly 3000 micro-blogs with clear sentimental polarity (i.e., pos vs neg). 
 
+Jie Wu, Xiaofei Zhu, Yihao Zhang, Wu Yang. User Sentiment Tendency Aware Based Micro-blog Sentiment Analysis Method. CCIR'2018.
+
